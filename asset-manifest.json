@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/ProjetoApresFrontEnd/static/js/main.0b55f3bc.js",
+    "main.js": "/ProjetoApresFrontEnd/static/js/main.ca0d0355.js",
     "static/media/abralav-qdd.svg": "/ProjetoApresFrontEnd/static/media/abralav-qdd.8877844a85a8f5f3bda4dc94ef37f6a6.svg",
     "index.html": "/ProjetoApresFrontEnd/index.html",
-    "main.0b55f3bc.js.map": "/ProjetoApresFrontEnd/static/js/main.0b55f3bc.js.map"
+    "main.ca0d0355.js.map": "/ProjetoApresFrontEnd/static/js/main.ca0d0355.js.map"
   },
   "entrypoints": [
-    "static/js/main.0b55f3bc.js"
+    "static/js/main.ca0d0355.js"
   ]
 }
